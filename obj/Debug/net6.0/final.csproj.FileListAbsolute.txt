@@ -1,0 +1,15 @@
+/home/aleks/Документы/final_dz/final/bin/Debug/net6.0/final
+/home/aleks/Документы/final_dz/final/bin/Debug/net6.0/final.deps.json
+/home/aleks/Документы/final_dz/final/bin/Debug/net6.0/final.runtimeconfig.json
+/home/aleks/Документы/final_dz/final/bin/Debug/net6.0/final.dll
+/home/aleks/Документы/final_dz/final/bin/Debug/net6.0/ref/final.dll
+/home/aleks/Документы/final_dz/final/bin/Debug/net6.0/final.pdb
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.csproj.AssemblyReference.cache
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.AssemblyInfoInputs.cache
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.AssemblyInfo.cs
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.csproj.CoreCompileInputs.cache
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.dll
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/ref/final.dll
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.pdb
+/home/aleks/Документы/final_dz/final/obj/Debug/net6.0/final.genruntimeconfig.cache
