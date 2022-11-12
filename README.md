@@ -1,5 +1,5 @@
 
-![Image alt](https://github.com/alekskrd/final/commit/5cf46ea13e071eb9833338396405ef3ef1373dab#diff-1277cb4b7d48406e394e62fee990eeaea56ec6d1bc5db7c9a987b5a18b30480b)
+![Image alt](https://github.com/alekskrd/final/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png)
 
 Написать программу которая из имеющегося массива строк формирует массив из строк, длина которых меньше либо равна 3 символа. 
 Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. 
